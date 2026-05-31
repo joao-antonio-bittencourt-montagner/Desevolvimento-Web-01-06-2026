@@ -8,7 +8,7 @@ A aplicação é dividida em um ecossistema de duas partes: um backend robusto e
 
 ## 👥 Integrantes da Dupla
 * **João Antônio Bittencourt Montagner**
-* *(Insira o nome do segundo integrante aqui, se houver - ou apague esta linha)*
+* **Guilherme Viana Priori**
 
 ---
 
